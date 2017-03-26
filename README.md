@@ -1,4 +1,4 @@
-## Kaitlyn_Bot
+## AuthBot
  
  Hello my name is Sky I'm creater of  
  
