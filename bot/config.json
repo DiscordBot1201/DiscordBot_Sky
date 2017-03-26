@@ -1,0 +1,13 @@
+{
+    "command_prefix": "?",
+    "mod_command_prefix": ")",
+    "youtube_api_key": "AIzaSyBU8L51PAAR66Jt3mpr7hQECM7rhlnNUVw",
+    "google_custom_search": "005293705315967278622:ysvpjebur1u",
+    "steam_api_key": "FA7C9E6B79EE8301F9D48C345D03FC9F",
+    "non_essential_event_listeners": true,
+    "debug": true,
+    "show_warn": false,
+    "carbon_key": "",
+    "whitelist": [""],
+    "banned_server_ids": []
+}

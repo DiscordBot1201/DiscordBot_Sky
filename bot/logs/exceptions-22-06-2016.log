@@ -1,0 +1,12 @@
+2016-06-22T20:53:32.758Z - error: uncaughtException: Unexpected token < date=Wed Jun 22 2016 20:53:32 GMT+0000 (UTC), pid=347432, uid=1000, gid=1000, cwd=/home/ubuntu/workspace, execPath=/home/ubuntu/.nvm/versions/node/v4.4.5/bin/node, version=v4.4.5, argv=[/home/ubuntu/.nvm/versions/node/v4.4.5/bin/node, /home/ubuntu/workspace/Kaitlyn_bot.js], rss=69992448, heapTotal=44523360, heapUsed=25493992, loadavg=[5.23876953125, 4.4482421875, 4.64599609375], uptime=7979441
+SyntaxError: Unexpected token <
+    at Object.parse (native)
+    at Request._callback (/home/ubuntu/workspace/bot/versioncheck.js:11:25)
+    at Request.init.self.callback (/home/ubuntu/workspace/node_modules/request/request.js:200:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (/home/ubuntu/workspace/node_modules/request/request.js:1067:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/workspace/node_modules/request/request.js:988:12)
+    at emitNone (events.js:72:20)

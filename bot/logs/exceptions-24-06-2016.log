@@ -1,0 +1,18 @@
+2016-06-24T20:01:04.588Z - error: uncaughtException: Cannot read property 'Client' of undefined date=Fri Jun 24 2016 20:01:04 GMT+0000 (UTC), pid=3950, uid=1000, gid=1000, cwd=/home/ubuntu/workspace, execPath=/home/ubuntu/.nvm/versions/node/v4.4.5/bin/node, version=v4.4.5, argv=[/home/ubuntu/.nvm/versions/node/v4.4.5/bin/node, /home/ubuntu/workspace/Kaitlyn_bot.js], rss=66646016, heapTotal=41427552, heapUsed=27907480, loadavg=[3.4833984375, 3.78466796875, 4.06689453125], uptime=8149093
+TypeError: Cannot read property 'Client' of undefined
+    at Object.<anonymous> (/home/ubuntu/workspace/Kaitlyn_bot.js:492:25)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.runMain [as _onTimeout] (module.js:441:10)
+    at Timer.listOnTimeout (timers.js:92:15)
+2016-06-24T20:01:30.106Z - error: uncaughtException: Cannot read property 'Client' of undefined date=Fri Jun 24 2016 20:01:30 GMT+0000 (UTC), pid=5083, uid=1000, gid=1000, cwd=/home/ubuntu/workspace, execPath=/home/ubuntu/.nvm/versions/node/v4.4.5/bin/node, version=v4.4.5, argv=[/home/ubuntu/.nvm/versions/node/v4.4.5/bin/node, /home/ubuntu/workspace/Kaitlyn_bot.js], rss=66813952, heapTotal=41427552, heapUsed=27942224, loadavg=[3.33837890625, 3.72216796875, 4.03857421875], uptime=8149118
+TypeError: Cannot read property 'Client' of undefined
+    at Object.<anonymous> (/home/ubuntu/workspace/Kaitlyn_bot.js:492:25)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.runMain [as _onTimeout] (module.js:441:10)
+    at Timer.listOnTimeout (timers.js:92:15)
